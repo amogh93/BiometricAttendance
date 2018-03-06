@@ -1,3 +1,6 @@
 # BiometricAttendance
 Java Desktop Application Using Swing<br />
-Fingerprint scanner used- SecuGen Hamster Pro 20
+<ul>
+  <li>Fingerprint scanner used- SecuGen Hamster Pro 20</li>
+  <li>ORM- Hibernate</li>
+</ul>
